@@ -1,4 +1,4 @@
-package com.basic.webapp;
+package com.sample.webapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
